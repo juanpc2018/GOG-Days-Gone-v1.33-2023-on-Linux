@@ -1,6 +1,6 @@
-# GOG Days Gone REMASTERED v1.33 (2023) on Linux
+# GOG [Days Gone REMASTERED v1.33 (2023)](https://www.gog.com/en/game/days_gone) on Linux
 
-GOG also has DLC version "Paid Upgrade", and Free older v1.07 Original (2021) installers </br>
+GOG also has [DLC version](https://www.gog.com/en/game/days_gone_broken_road_dlc) "Paid Upgrade", and Free older v1.07 Original (2021) installer. </br>
 
 ## Ubuntu 20.04.4 LTS
 
@@ -15,8 +15,9 @@ using System Wine 5, and System DXVK + Lutris "Extra" Libraries, </br>
 but has 4 fps </br>
 
 Latest [WineHQ](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Linux Kernel & DXVK have: </br>
-NTSync "perfect sync" between Linux Posix & Windows API calls </br>
-older Wine & DXVK have Fsync "almost perfect", E or N-sync </br>
+NTSync "perfect sync" between Linux Posix & Windows API calls 3rd gen sync </br>
+older Wine & DXVK have Fsync "almost perfect" 2nd gen sync, 
+E or N-sync "1st Gen Sync" </br>
 
 Days Gone v1.33 REQUIRES some type of sync </br>
 to make it work in Ubuntu 20.04.4 LTS requires to compile a Newer DXVK 1.3.0 minimum </br>
