@@ -16,7 +16,7 @@ but has 4 fps </br>
 
 Latest [WineHQ](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Linux Kernel & DXVK have: </br>
 NTSync "perfect sync" between Linux Posix & Windows API calls "3rd gen sync" </br>
-older Wine & DXVK have Fsync "almost perfect" 2nd gen sync, </br>
+older Proton-ge / Wine & DXVK have Fsync "almost perfect" 2nd gen sync, </br>
 E or N-sync "1st Gen Sync" </br>
 
 Days Gone v1.33 REQUIRES some type of sync </br>
