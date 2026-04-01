@@ -2,7 +2,7 @@
 
 GOG also has DLC version "Paid Upgrade", and Free older v1.07 Original (2021) installers </br>
 
-### Ubuntu 20.04.4 LTS
+## Ubuntu 20.04.4 LTS
 
 Lutris 0.5.18 is most compatible .deb installer </br>
 Lutris 0.5.20 .22 have "Special Requirements" *probably requires Ubuntu 24 or 25 </br>
@@ -19,20 +19,27 @@ older Wine & DXVK have Fsync "almost perfect", E or N-sync </br>
 
 Days Gone v1.33 REQUIRES some type of sync </br>
 to make it work in Ubuntu 20.04.4 LTS requires to compile a Newer DXVK 1.3.0 minimum </br>
+Ubuntu 20.04.4 comes with: </br>
+Kernel 5.15 </br>
+Wine v5 </br>
+DXVK 1.2 </br>
 
 ## Ubuntu 22.04.5 LTS "Jammy" & Linux Mint 21.x
 
-Ubuntu .5 comes with: </br>
+Ubuntu 22.04.5 comes with: </br>
 Kernel 6.8 </br>
 Wine v6 </br>
 DXVK 1.9 </br>
 
 Optional Liquorix Kernel 6.19 Only works with NVIDIA driver 580 </br>
 older nvidia drivers & dkms Do Not work with latest Liquorix Kernel in 22.04.5 </br>
+but in 20.04.4 LTS does. </br>
 
 #### Do Not install Optional Drivers from install .iso </br>
+Iso Installer, downloads & install "different" / "manual" Nvidia drivers version vs. Software & Updates Aditional Drivers </br>
 
 Also Requires Mesa drivers, & Vulkan drivers </br>
+installing some drivers can crash Ubuntu-Desktop </br>
 
 > cat /etc/os-release
 
