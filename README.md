@@ -28,6 +28,34 @@ DXVK 1.2 </br>
 
 Optional: Liquorix Kernel 6.13 </br>
 
+## Ubuntu 20.04.6 LTS
+
+comes with: </br>
+Kernel 5. </br>
+Wine v </br>
+DXVK 1. </br>
+
+## Ubuntu 20.10
+
+comes with: </br>
+Kernel 5. </br>
+Wine v </br>
+DXVK 1. </br>
+
+## Ubuntu 21.04
+
+comes with: </br>
+Kernel 5. </br>
+Wine v </br>
+DXVK 1. </br>
+
+## Ubuntu 21.10
+
+comes with: </br>
+Kernel 5. </br>
+Wine v </br>
+DXVK 1. </br>
+
 ## Ubuntu 22.04.5 LTS "Jammy" & Linux Mint 21.x
 
 Ubuntu 22.04.5 comes with: </br>
@@ -62,5 +90,34 @@ or
 > sudo apt install --install-recommends winehq-devel
 
 Ubuntu 22.04 KDE Neon reeport problems with: libpoppler-glib8 dependency. </br>
-Solution is to downgrade package to the official Ubuntu version: </br>
+Solution: Downgrade package to official Ubuntu version: </br>
 > sudo apt install libpoppler-glib8:{i386,amd64}=22.02.0-2ubuntu0.3 </br>
+
+## Ubuntu 22.10
+
+comes with: </br>
+Kernel  </br>
+Wine v </br>
+DXVK 1. </br>
+
+
+## Ubuntu 23.04
+
+comes with: </br>
+Kernel  </br>
+Wine v </br>
+DXVK 1. </br>
+
+## Ubuntu 23.10
+
+comes with: </br>
+Kernel  </br>
+Wine v </br>
+DXVK 1. </br>
+
+## Ubuntu 24.04 LTS
+
+comes with: </br>
+Kernel  </br>
+Wine v </br>
+DXVK 1. </br>
