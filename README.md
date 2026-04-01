@@ -14,7 +14,8 @@ Days Gone v1.33 works on Ubuntu 20.04.4 LTS </br>
 using System Wine 5, and System DXVK + Lutris "Extra" Libraries, </br>
 but has 4 fps </br>
 
-Latest [WineHQ](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Linux Kernel & DXVK have NTSync "perfect sync" between Linux & Windows API calls </br>
+Latest [WineHQ](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Linux Kernel & DXVK have: </br>
+NTSync "perfect sync" between Linux Posix & Windows API calls </br>
 older Wine & DXVK have Fsync "almost perfect", E or N-sync </br>
 
 Days Gone v1.33 REQUIRES some type of sync </br>
