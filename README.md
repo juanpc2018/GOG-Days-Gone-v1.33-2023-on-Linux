@@ -61,8 +61,6 @@ installing some drivers crash Ubuntu-Desktop </br>
 or
 > sudo apt install --install-recommends winehq-devel
 
-Ubuntu 22.04 KDE Neon reeport problems with: libpoppler-glib8 dependency. 
-Solution is to downgrade package to the official Ubuntu version:
-> sudo apt install libpoppler-glib8:{i386,amd64}=22.02.0-2ubuntu0.3
-
-
+Ubuntu 22.04 KDE Neon reeport problems with: libpoppler-glib8 dependency. </br>
+Solution is to downgrade package to the official Ubuntu version: </br>
+> sudo apt install libpoppler-glib8:{i386,amd64}=22.02.0-2ubuntu0.3 </br>
