@@ -4,7 +4,7 @@ GOG also has [DLC version](https://www.gog.com/en/game/days_gone_broken_road_dlc
 
 ## Ubuntu 20.04.4 LTS
 
-Lutris 0.5.18 is most compatible .deb installer </br>
+Lutris 0.5.18 is the most compatible .deb installer </br>
 Lutris 0.5.20 .22 have "Special Requirements" *probably requires Ubuntu 24 or 25 </br>
 
 The Goal is to Run Days Gone v1.33 as good as possible on Any Linux </br>
