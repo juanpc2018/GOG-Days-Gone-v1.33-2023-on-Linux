@@ -26,6 +26,8 @@ Kernel 5.15 </br>
 Wine v5 </br>
 DXVK 1.2 </br>
 
+Optional: Liquorix Kernel 6.13 </br>
+
 ## Ubuntu 22.04.5 LTS "Jammy" & Linux Mint 21.x
 
 Ubuntu 22.04.5 comes with: </br>
