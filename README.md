@@ -40,7 +40,7 @@ older nvidia drivers & dkms Do Not work with latest Liquorix Kernel in 22.04.5 <
 but in 20.04.4 LTS does. </br>
 
 #### Do Not install Optional Drivers from install .iso </br>
-Iso Installer, downloads & install "different" / "manual" Nvidia drivers version vs. Software & Updates Aditional Drivers </br>
+Iso Installer, downloads & install "different" / "manual" Nvidia drivers vs. Software & Updates Aditional Drivers </br>
 
 Also Requires Mesa drivers, & Vulkan drivers </br>
 installing some drivers crash Ubuntu-Desktop </br>
