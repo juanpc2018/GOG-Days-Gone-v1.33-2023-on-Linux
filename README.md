@@ -15,7 +15,7 @@ using System Wine 5, and System DXVK + Lutris "Extra" Libraries, </br>
 but has 4 fps </br>
 
 Latest [WineHQ](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Linux Kernel & DXVK have: </br>
-NTSync "perfect sync" between Linux Posix & Windows API calls 3rd gen sync </br>
+NTSync "perfect sync" between Linux Posix & Windows API calls "3rd gen sync" </br>
 older Wine & DXVK have Fsync "almost perfect" 2nd gen sync, 
 E or N-sync "1st Gen Sync" </br>
 
