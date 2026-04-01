@@ -39,7 +39,7 @@ but in 20.04.4 LTS does. </br>
 Iso Installer, downloads & install "different" / "manual" Nvidia drivers version vs. Software & Updates Aditional Drivers </br>
 
 Also Requires Mesa drivers, & Vulkan drivers </br>
-installing some drivers can crash Ubuntu-Desktop </br>
+installing some drivers crash Ubuntu-Desktop </br>
 
 > cat /etc/os-release
 
