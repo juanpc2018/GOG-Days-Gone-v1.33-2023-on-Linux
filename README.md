@@ -8,10 +8,10 @@ Lutris 0.5.18 is the most compatible .deb installer </br>
 Lutris 0.5.20 .22 have "Special Requirements" *probably requires Ubuntu 24 or 25 </br>
 
 The Goal is to Run Days Gone v1.33 as good as possible on Any Linux </br>
-Days gone is 64-Bit but installing 32-Bit is also a good idea. </br>
+is 64-Bit but installing 32-Bit is required by Lutris. </br>
 
 Days Gone v1.33 works on Ubuntu 20.04.4 LTS </br>
-using System Wine 5, and System DXVK + Lutris "Extra" Libraries, </br>
+using System Wine 5, and System DXVK + Lutris .18 "Extra" Libraries, </br>
 but has 4 fps </br>
 
 Latest [WineHQ](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Linux Kernel & DXVK have: </br>
@@ -20,7 +20,7 @@ older Proton-ge / Wine & DXVK have Fsync "almost perfect" 2nd gen sync, </br>
 E or N-sync "1st Gen Sync" </br>
 
 Days Gone v1.33 REQUIRES some type of sync </br>
-to make it work in Ubuntu 20.04.4 LTS requires to compile a Newer DXVK 1.3.0 minimum </br>
+in Ubuntu 20.04.4 LTS Requires to compile a Newer DXVK v1.3.0 minimum </br>
 Ubuntu 20.04.4 comes with: </br>
 Kernel 5.15 </br>
 Wine v5 </br>
