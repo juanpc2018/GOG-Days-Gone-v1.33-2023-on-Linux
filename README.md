@@ -2,7 +2,7 @@
 
 GOG also has [DLC version](https://www.gog.com/en/game/days_gone_broken_road_dlc) "Paid Upgrade", and older v1.07 Original (2021) installer included with (2023). </br>
 
-## Ubuntu 20.04.4 LTS
+## Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01)
 
 Lutris 0.5.18 is the most compatible .deb installer </br>
 Lutris 0.5.20 .22 have "Special Requirements" *probably requires Ubuntu 24 or 25 </br>
@@ -23,7 +23,7 @@ Since: [WineHQ v10.16](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu
 Older: Wineserver NoSync </br>
 
 Days Gone v1.33 REQUIRES F-Sync or NTsync </br>
-in Ubuntu 20.04.4 LTS Requires to compile a Newer DXVK v1.3.0 minimum </br>
+in Ubuntu 20.04.4 LTS Requires to compile a Newer DXVK [v1.3.0](https://github.com/doitsujin/dxvk/releases/tag/v1.3) minimum </br>
 Ubuntu 20.04.4 comes with: </br>
 Kernel 5.15 </br>
 Wine v5 </br>
@@ -31,9 +31,9 @@ DXVK 1.2 </br>
 
 Optional: Liquorix Kernel 6.13 </br>
 
-## Ubuntu 20.04.6 LTS
+## Ubuntu [20.04.6 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01)
 
-comes with: </br>
+has: </br>
 Kernel 5. </br>
 Wine v </br>
 DXVK 1. </br>
