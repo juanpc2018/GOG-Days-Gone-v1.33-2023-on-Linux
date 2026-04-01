@@ -67,7 +67,7 @@ Optional Liquorix Kernel 6.19 Only works with NVIDIA driver 580 </br>
 older nvidia drivers & dkms Do Not work with latest Liquorix Kernel in 22.04.5 </br>
 but in 20.04.4 LTS does. </br>
 
-#### Do Not install Optional Drivers from install .iso </br>
+#### Do Not install Optional Drivers & Updates from install .iso </br>
 Iso Installer, downloads & install "different" / "manual" Nvidia drivers vs. Software & Updates Aditional Drivers </br>
 
 Also Requires Mesa drivers, & Vulkan drivers </br>
