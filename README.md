@@ -1,6 +1,6 @@
 # GOG Days Gone REMASTERED v1.33 (2023) on Linux
 
-GOG also has DLC version "Payd Upgrade", and Free older v1.07 Original (2021) installers </br>
+GOG also has DLC version "Paid Upgrade", and Free older v1.07 Original (2021) installers </br>
 
 ### Ubuntu 20.04.4 LTS
 
