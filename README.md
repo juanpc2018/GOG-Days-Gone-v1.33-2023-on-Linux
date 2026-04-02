@@ -7,7 +7,7 @@ GOG also has [DLC version](https://www.gog.com/en/game/days_gone_broken_road_dlc
 Lutris 0.5.18 is the most compatible .deb installer </br>
 Lutris 0.5.20 .22 have "Special Requirements" *probably requires Ubuntu 24 or 25 </br>
 
-The Goal is to Run Days Gone v1.33 as good as possible on Any Linux </br>
+The Goal is to Run Days Gone v1.33 as good as possible on Linux </br>
 is 64-Bit but installing 32-Bit is required by Lutris. </br>
 
 Days Gone v1.33 works on Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
