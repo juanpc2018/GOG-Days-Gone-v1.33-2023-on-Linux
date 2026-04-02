@@ -37,6 +37,7 @@ Ubuntu 20.04.4 comes with: </br>
 Kernel 5.15 </br>
 Wine v5 </br>
 DXVK 1.2 </br>
+mesa-vulkan 21.2.6 </br>
 ![Image](https://github.com/user-attachments/assets/6ab39365-c1ce-46f9-b180-0b82b48e4036)
 
 Optional: Liquorix Kernel 6.13 </br>
@@ -47,6 +48,7 @@ has: </br>
 Kernel 5. </br>
 Wine v </br>
 DXVK 1. </br>
+mesa-vulkan </br>
 
 ## Ubuntu 20.10
 
@@ -54,6 +56,7 @@ comes with: </br>
 Kernel 5. </br>
 Wine v </br>
 DXVK 1. </br>
+mesa-vulkan </br>
 
 ## Ubuntu 21.04
 
@@ -61,6 +64,7 @@ comes with: </br>
 Kernel 5. </br>
 Wine v </br>
 DXVK 1. </br>
+mesa-vulkan </br>
 
 ## Ubuntu 21.10
 
@@ -68,6 +72,7 @@ comes with: </br>
 Kernel 5. </br>
 Wine v </br>
 DXVK 1. </br>
+mesa-vulkan </br>
 
 ## Ubuntu 22.04.5 LTS "Jammy" & Linux Mint 21.x
 
@@ -75,6 +80,7 @@ Ubuntu 22.04.5 comes with: </br>
 Kernel 6.8 </br>
 Wine v6 </br>
 DXVK 1.9 </br>
+mesa-vulkan </br>
 
 Optional Liquorix Kernel 6.19 Only works with NVIDIA driver 580 </br>
 older nvidia drivers & dkms Do Not work with latest Liquorix Kernel in 22.04.5 </br>
@@ -116,7 +122,7 @@ comes with: </br>
 Kernel  </br>
 Wine v </br>
 DXVK 1. </br>
-
+mesa-vulkan </br>
 
 ## Ubuntu 23.04
 
@@ -124,6 +130,7 @@ comes with: </br>
 Kernel  </br>
 Wine v </br>
 DXVK 1. </br>
+mesa-vulkan </br>
 
 ## Ubuntu 23.10
 
@@ -131,6 +138,7 @@ comes with: </br>
 Kernel  </br>
 Wine v </br>
 DXVK 1. </br>
+mesa-vulkan </br>
 
 ## Ubuntu 24.04 LTS
 
@@ -138,3 +146,4 @@ comes with: </br>
 Kernel  </br>
 Wine v </br>
 DXVK 1. </br>
+mesa-vulkan </br>
