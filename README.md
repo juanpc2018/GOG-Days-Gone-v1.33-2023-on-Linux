@@ -16,7 +16,7 @@ but has 4 fps </br>
 "works" Lutris .18 forced to [1.7.1](https://github.com/doitsujin/dxvk/releases/tag/v1.7.1) Not Manual v1.2.13 </br>
 very low fps. </br>
 ![Image](https://github.com/user-attachments/assets/093284b7-f13d-493b-9241-b6c252c0678a) </br>
-with Small Error: </br>
+Small Error: </br>
 ![Image](https://github.com/user-attachments/assets/36609f90-f7a3-4f4a-847f-4e97b82191e1) </br>
 
 -----------------
