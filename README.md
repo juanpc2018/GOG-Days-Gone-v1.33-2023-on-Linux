@@ -18,7 +18,7 @@ Since: [WineHQ v10.16](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu
 > $ ls -l /dev/[NTSync](https://www.youtube.com/watch?v=PFkX9wN8xPE&t=91s)
 
 "perfect sync" between Linux Posix & Windows API calls "3rd gen sync" </br>
-2019 older Proton-ge / Wine & DXVK have F-sync "almost perfect" 2nd gen sync, </br>
+2019 Proton-ge "Wine" & DXVK have F-sync "almost perfect" 2nd gen sync, </br>
 2018 E-sync "1st Gen Sync" </br>
 Older: Wineserver NoSync </br>
 
