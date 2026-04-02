@@ -10,7 +10,7 @@ Lutris [0.5.20](https://github.com/lutris/lutris/releases/tag/v0.5.20) / [.22](h
 The Goal is to Run Days Gone v1.33 as good as possible on Linux </br>
 is 64-Bit but installing 32-Bit is required by Lutris. </br>
 
-Days Gone v1.33 works on Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
+[Days Gone v1.33](https://www.gog.com/en/game/days_gone) works on Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
 using System Wine 5, and System DXVK + Lutris .18 "Extra" Libraries, </br>
 but has [4 fps](https://www.reddit.com/r/linux_gaming/comments/nrz1wt/days_gone_with_winelutris_at_4fps/) </br>
 "works" Lutris .18 forced to [1.7.1](https://github.com/doitsujin/dxvk/releases/tag/v1.7.1) Not Manual v1.2.13 </br>
