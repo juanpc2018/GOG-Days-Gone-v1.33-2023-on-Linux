@@ -15,6 +15,9 @@ using System Wine 5, and System DXVK + Lutris .18 "Extra" Libraries, </br>
 but has 4 fps </br>
 "works" Lutris .18 forced to [1.7.1](https://github.com/doitsujin/dxvk/releases/tag/v1.7.1) Not Manual v1.2.13 </br>
 very low fps. </br>
+![Image](https://github.com/user-attachments/assets/093284b7-f13d-493b-9241-b6c252c0678a)
+
+-----------------
 
 Since: [WineHQ v10.16](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Proton-GE 10.9, Linux Kernel 6.14 (Mar"3"/2025) & DXVK, SteamOS 3.7.20 have: </br>
 > $ ls -l /dev/[NTSync](https://www.youtube.com/watch?v=PFkX9wN8xPE&t=91s)
