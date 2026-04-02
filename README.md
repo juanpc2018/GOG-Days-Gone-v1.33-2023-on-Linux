@@ -16,6 +16,8 @@ but has 4 fps </br>
 "works" Lutris .18 forced to [1.7.1](https://github.com/doitsujin/dxvk/releases/tag/v1.7.1) Not Manual v1.2.13 </br>
 very low fps. </br>
 ![Image](https://github.com/user-attachments/assets/093284b7-f13d-493b-9241-b6c252c0678a)
+with Small Error:
+![Image](https://github.com/user-attachments/assets/36609f90-f7a3-4f4a-847f-4e97b82191e1)
 
 -----------------
 
@@ -33,6 +35,7 @@ Ubuntu 20.04.4 comes with: </br>
 Kernel 5.15 </br>
 Wine v5 </br>
 DXVK 1.2 </br>
+![Image](https://github.com/user-attachments/assets/6ab39365-c1ce-46f9-b180-0b82b48e4036)
 
 Optional: Liquorix Kernel 6.13 </br>
 
