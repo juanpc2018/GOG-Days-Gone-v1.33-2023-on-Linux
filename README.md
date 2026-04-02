@@ -20,7 +20,7 @@ Small Error: </br>
 ![Image](https://github.com/user-attachments/assets/36609f90-f7a3-4f4a-847f-4e97b82191e1) </br>
 
 NVIDIA Driver 570 is the latest for Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
-NVIDIA Driver 470, Lutris Enable DXVK Complains is too old. </br>
+NVIDIA Driver 470, Lutris DXVK Complains is too old. </br>
 but 20.04.4 LTS + NVIDIA 470 driver is required for Older 32-Bit games like Batman Arkham Asylum 32-Bit PhysX </br>
 very old GPUs Quadro 6000 (2010) & GTX 470 Require driver 390 </br>
 
