@@ -19,6 +19,19 @@ very [low fps](https://github.com/doitsujin/dxvk/issues/2065) </br>
 Small Error: </br>
 ![Image](https://github.com/user-attachments/assets/36609f90-f7a3-4f4a-847f-4e97b82191e1) </br>
 
+NVIDIA Driver 570 is the latest for Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
+NVIDIA Driver 470, Lutris Enable DXVK Complains is too old. </br>
+
+#### Sound
+"PulseAudio" does Not work forced at 48KHz </br>
+but Wine Config Test works ok. </br>
+will test Jack later. </br>
+
+Turning OFF DXVK, </br>
+game works on newer Wine, </br>
+but colors are wrong. </br>
+speed fps also low = Worse. </br>
+
 -----------------
 
 ## NTSync
