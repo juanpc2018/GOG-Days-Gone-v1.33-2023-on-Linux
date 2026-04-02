@@ -48,7 +48,7 @@ Older: Wineserver NoSync </br>
 Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) Requires to manually compile a Newer DXVK [v1.3.0](https://github.com/doitsujin/dxvk/releases/tag/v1.3) minimum </br>
 Ubuntu 20.04.4 comes with: </br>
 Kernel 5.15 </br>
-Wine v5 </br>
+wine-5.0 (Ubuntu 5.0-3ubuntu1) </br>
 DXVK 1.2.13 </br>
 mesa-vulkan 21.2.6 </br>
 ![Image](https://github.com/user-attachments/assets/6ab39365-c1ce-46f9-b180-0b82b48e4036)
