@@ -41,6 +41,7 @@ mesa-vulkan 21.2.6 </br>
 ![Image](https://github.com/user-attachments/assets/6ab39365-c1ce-46f9-b180-0b82b48e4036)
 
 Optional: Liquorix Kernel 6.13 </br>
+but NTSync REQUIRES Linux Kernel 6.14 </br>
 
 ## Ubuntu [20.04.6 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01)
 
