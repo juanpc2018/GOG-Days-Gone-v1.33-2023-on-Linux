@@ -1,6 +1,6 @@
 # GOG [Days Gone REMASTERED v1.33 (2023)](https://www.gog.com/en/game/days_gone) on Linux
 
-GOG also has [DLC version](https://www.gog.com/en/game/days_gone_broken_road_dlc) "Paid Upgrade", and v1.07 "Original" (2021) installer included with (2023). </br>
+GOG also has [DLC version](https://www.gog.com/en/game/days_gone_broken_road_dlc) "Paid Upgrade" and v1.07 "Original" (2021) installer included with (2023). </br>
 
 ## Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01)
 
