@@ -159,6 +159,11 @@ mesa-vulkan </br>
 ### Ubuntu [24.04.2](https://web.archive.org/web/20250716135836if_/http://www.releases.ubuntu.com/24.04/ubuntu-24.04.2-desktop-amd64.iso.torrent) / [24.04.3](https://web.archive.org/web/20251115013412if_/https://releases.ubuntu.com/24.04/ubuntu-24.04.3-desktop-amd64.iso.torrent) / [24.04.4](https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso.torrent) LTS </br>
 ### Kubuntu [24.04.2](https://web.archive.org/web/20250222062219if_/https://cdimage.ubuntu.com/kubuntu/releases/24.04.2/release/kubuntu-24.04.2-desktop-amd64.iso.torrent) / [24.04.3](https://web.archive.org/web/20251116060805if_/https://cdimage.ubuntu.com/kubuntu/releases/24.04/release/kubuntu-24.04.3-desktop-amd64.iso.torrent) / [24.04.4](https://cdimage.ubuntu.com/kubuntu/releases/24.04.3/release/kubuntu-24.04.4-desktop-amd64.iso.torrent) LTS
 
+24.04.0 comes with Kernel 6.8 "same" as 22.04.5 </br>
+24.04.1 </br>
+24.04.2 </br>
+24.04.3 </br>
+24.04.4 </br>
 comes with: </br>
 Kernel  </br>
 Wine v </br>
@@ -168,7 +173,7 @@ mesa-vulkan </br>
 ## Ubuntu 24.10 LTS / Kubunru [24.10](https://web.archive.org/web/20250418145903if_/https://cdimage.ubuntu.com/kubuntu/releases/24.10/release/kubuntu-24.10-desktop-amd64.iso.torrent)  LTS
 
 comes with: </br>
-Kernel  </br>
+Kernel 6.11 </br>
 Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
@@ -176,7 +181,7 @@ mesa-vulkan </br>
 ## [Ubuntu](https://web.archive.org/web/20250906072935if_/https://www.releases.ubuntu.com/25.04/ubuntu-25.04-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20250917125222if_/https://cdimage.ubuntu.com/kubuntu/releases/25.04/release/kubuntu-25.04-desktop-amd64.iso.torrent) 25.04 LTS
 
 comes with: </br>
-Kernel  </br>
+Kernel 6.14 </br>
 Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
@@ -184,7 +189,7 @@ mesa-vulkan </br>
 ## [Ubuntu](https://releases.ubuntu.com/25.10/ubuntu-25.10-desktop-amd64.iso.torrent) / [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/25.10/release/kubuntu-25.10-desktop-amd64.iso.torrent) 25.10 LTS
 
 comes with: </br>
-Kernel  </br>
+Kernel 6.17 </br>
 Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
