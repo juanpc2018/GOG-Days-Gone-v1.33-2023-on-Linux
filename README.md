@@ -156,8 +156,8 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu [24.04.2](https://web.archive.org/web/20250716135836if_/http://www.releases.ubuntu.com/24.04/ubuntu-24.04.2-desktop-amd64.iso.torrent) / [24.04.3](https://web.archive.org/web/20251115013412if_/https://releases.ubuntu.com/24.04/ubuntu-24.04.3-desktop-amd64.iso.torrent) / [24.04.4](https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso.torrent) LTS
-## Kubuntu [24.04.3](https://web.archive.org/web/20251116060805if_/https://cdimage.ubuntu.com/kubuntu/releases/24.04/release/kubuntu-24.04.3-desktop-amd64.iso.torrent) / [24.04.4](https://cdimage.ubuntu.com/kubuntu/releases/24.04.3/release/kubuntu-24.04.4-desktop-amd64.iso.torrent) LTS
+### Ubuntu [24.04.2](https://web.archive.org/web/20250716135836if_/http://www.releases.ubuntu.com/24.04/ubuntu-24.04.2-desktop-amd64.iso.torrent) / [24.04.3](https://web.archive.org/web/20251115013412if_/https://releases.ubuntu.com/24.04/ubuntu-24.04.3-desktop-amd64.iso.torrent) / [24.04.4](https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso.torrent) LTS </br>
+### Kubuntu [24.04.2](https://web.archive.org/web/20250222062219if_/https://cdimage.ubuntu.com/kubuntu/releases/24.04.2/release/kubuntu-24.04.2-desktop-amd64.iso.torrent) / [24.04.3](https://web.archive.org/web/20251116060805if_/https://cdimage.ubuntu.com/kubuntu/releases/24.04/release/kubuntu-24.04.3-desktop-amd64.iso.torrent) / [24.04.4](https://cdimage.ubuntu.com/kubuntu/releases/24.04.3/release/kubuntu-24.04.4-desktop-amd64.iso.torrent) LTS
 
 comes with: </br>
 Kernel  </br>
