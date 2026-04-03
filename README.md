@@ -90,7 +90,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 22.04.5 LTS "Jammy" & Linux Mint 21.x
+## Ubuntu [22.04.5](https://releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso.torrent) LTS "Jammy" & Linux Mint 21.x
 
 Ubuntu 22.04.5 comes with: </br>
 Kernel 6.8 </br>
@@ -156,7 +156,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 24.04 LTS
+## Ubuntu [24.04.3](https://web.archive.org/web/20251115013412if_/https://releases.ubuntu.com/24.04/ubuntu-24.04.3-desktop-amd64.iso.torrent) [24.04.4](https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso.torrent) / Kubuntu [24.04.3](https://web.archive.org/web/20251116060805if_/https://cdimage.ubuntu.com/kubuntu/releases/24.04/release/kubuntu-24.04.3-desktop-amd64.iso.torrent) / [24.04.4](https://cdimage.ubuntu.com/kubuntu/releases/24.04.3/release/kubuntu-24.04.4-desktop-amd64.iso.torrent) LTS
 
 comes with: </br>
 Kernel  </br>
@@ -172,7 +172,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 25.04 LTS
+## [Ubuntu](https://web.archive.org/web/20250906072935if_/https://www.releases.ubuntu.com/25.04/ubuntu-25.04-desktop-amd64.iso.torrent) / [Kuntuntu](https://web.archive.org/web/20250917125222if_/https://cdimage.ubuntu.com/kubuntu/releases/25.04/release/kubuntu-25.04-desktop-amd64.iso.torrent) 25.04 LTS
 
 comes with: </br>
 Kernel  </br>
@@ -180,7 +180,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 25.10 LTS
+## [Ubuntu](https://releases.ubuntu.com/25.10/ubuntu-25.10-desktop-amd64.iso.torrent) / [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/25.10/release/kubuntu-25.10-desktop-amd64.iso.torrent) 25.10 LTS
 
 comes with: </br>
 Kernel  </br>
