@@ -163,3 +163,27 @@ Kernel  </br>
 Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
+
+## Ubuntu 24.10 LTS
+
+comes with: </br>
+Kernel  </br>
+Wine v </br>
+DXVK 1. </br>
+mesa-vulkan </br>
+
+## Ubuntu 25.04 LTS
+
+comes with: </br>
+Kernel  </br>
+Wine v </br>
+DXVK 1. </br>
+mesa-vulkan </br>
+
+## Ubuntu 25.10 LTS
+
+comes with: </br>
+Kernel  </br>
+Wine v </br>
+DXVK 1. </br>
+mesa-vulkan </br>
