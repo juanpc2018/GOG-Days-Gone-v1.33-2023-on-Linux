@@ -90,7 +90,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu [22.04.5](https://releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso.torrent) LTS "Jammy" & Linux Mint 21.x
+## Ubuntu [22.04.5](https://releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso.torrent) LTS "Jammy" / Kubuntu [22.04.5](https://web.archive.org/web/20241008203731if_/https://cdimage.ubuntu.com/kubuntu/releases/22.04.5/release/kubuntu-22.04.5-desktop-amd64.iso.torrent) LTS /  Linux Mint 21.x
 
 Ubuntu 22.04.5 comes with: </br>
 Kernel 6.8 </br>
@@ -165,7 +165,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 24.10 LTS
+## Ubuntu 24.10 LTS / Kubunru [24.10](https://web.archive.org/web/20250418145903if_/https://cdimage.ubuntu.com/kubuntu/releases/24.10/release/kubuntu-24.10-desktop-amd64.iso.torrent)  LTS
 
 comes with: </br>
 Kernel  </br>
