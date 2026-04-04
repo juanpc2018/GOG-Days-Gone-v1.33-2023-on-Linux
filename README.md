@@ -163,10 +163,15 @@ mesa-vulkan </br>
 24.04.1 </br>
 24.04.2 </br>
 24.04.3 </br>
+
 24.04.4 </br>
 comes with: </br>
 Kernel 6.17  </br>
-Wine64 v9.0 / Win32 does Not install / WineHQ also does Not install. </br>
+Nvidia driver 470 Fail </br>
+Nvidia driver 535 install ok </br>
+Wine64 9.0-repack-4build3 install ok </br>
+Win32 does Not install </br>
+WineHQ-stable does Not install. </br>
 DXVK N/A = Requires Manual install. </br>
 mesa-vulkan-drivers 25.2.8-0ubuntu0.24.04.1 </br>
 
