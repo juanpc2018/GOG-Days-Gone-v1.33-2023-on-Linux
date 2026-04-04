@@ -172,7 +172,7 @@ Nvidia driver 535 install ok </br>
 Wine64 9.0-repack-4build3 install ok </br>
 Win32 does Not install </br>
 WineHQ-stable does Not install. </br>
-DXVK N/A = Requires Manual install. </br>
+DXVK N/A = Requires [Manual install](https://github.com/doitsujin/dxvk/releases), Not on apt store PPA Repo. </br>
 mesa-vulkan-drivers 25.2.8-0ubuntu0.24.04.1 </br>
 
 ## [Ubuntu](https://web.archive.org/web/20250215165431if_/https://releases.ubuntu.com/24.10/ubuntu-24.10-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20250418145903if_/https://cdimage.ubuntu.com/kubuntu/releases/24.10/release/kubuntu-24.10-desktop-amd64.iso.torrent) 24.10
