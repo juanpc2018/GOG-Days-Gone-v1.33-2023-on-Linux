@@ -156,7 +156,8 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 23.10
+# [Kubuntu 23.10.0](https://web.archive.org/web/20240103061407if_/https://cdimage.ubuntu.com/kubuntu/releases/23.10/release/kubuntu-23.10-desktop-amd64.iso.torrent)
+## [Ubuntu 23.10.1](https://web.archive.org/web/20231019022107if_/http://releases.ubuntu.com/23.10.1/ubuntu-23.10.1-desktop-amd64.iso.torrent) 
 
 comes with: </br>
 Kernel  </br>
