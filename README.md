@@ -170,7 +170,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## [Ubuntu](https://web.archive.org/web/20250215165431if_/https://releases.ubuntu.com/24.10/ubuntu-24.10-desktop-amd64.iso.torrent) / [Kubunru](https://web.archive.org/web/20250418145903if_/https://cdimage.ubuntu.com/kubuntu/releases/24.10/release/kubuntu-24.10-desktop-amd64.iso.torrent) 24.10 LTS
+## [Ubuntu](https://web.archive.org/web/20250215165431if_/https://releases.ubuntu.com/24.10/ubuntu-24.10-desktop-amd64.iso.torrent) / [Kubunru](https://web.archive.org/web/20250418145903if_/https://cdimage.ubuntu.com/kubuntu/releases/24.10/release/kubuntu-24.10-desktop-amd64.iso.torrent) 24.10
 
 comes with: </br>
 Kernel 6.11 </br>
@@ -178,7 +178,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## [Ubuntu](https://web.archive.org/web/20250906072935if_/https://www.releases.ubuntu.com/25.04/ubuntu-25.04-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20250917125222if_/https://cdimage.ubuntu.com/kubuntu/releases/25.04/release/kubuntu-25.04-desktop-amd64.iso.torrent) 25.04 LTS
+## [Ubuntu](https://web.archive.org/web/20250906072935if_/https://www.releases.ubuntu.com/25.04/ubuntu-25.04-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20250917125222if_/https://cdimage.ubuntu.com/kubuntu/releases/25.04/release/kubuntu-25.04-desktop-amd64.iso.torrent) 25.04
 
 comes with: </br>
 Kernel 6.14 </br>
