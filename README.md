@@ -165,10 +165,10 @@ mesa-vulkan </br>
 24.04.3 </br>
 24.04.4 </br>
 comes with: </br>
-Kernel  </br>
-Wine v </br>
-DXVK 1. </br>
-mesa-vulkan </br>
+Kernel 6.17  </br>
+Wine64 v9.0 / Win32 does Not install / WineHQ also does Not install. </br>
+DXVK N/A = Requires Manual install. </br>
+mesa-vulkan-drivers 25.2.8-0ubuntu0.24.04.1 </br>
 
 ## [Ubuntu](https://web.archive.org/web/20250215165431if_/https://releases.ubuntu.com/24.10/ubuntu-24.10-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20250418145903if_/https://cdimage.ubuntu.com/kubuntu/releases/24.10/release/kubuntu-24.10-desktop-amd64.iso.torrent) 24.10
 
