@@ -55,8 +55,8 @@ DXVK 1.2.13 </br>
 mesa-vulkan 21.2.6 </br>
 NVIDIA 535.230.02 </br>
 ![Image](https://github.com/user-attachments/assets/6ab39365-c1ce-46f9-b180-0b82b48e4036)
-
-[DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) [requires:](https://github.com/doitsujin/dxvk/wiki/Driver-support) </br>
+[DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) -> [requires:](https://github.com/doitsujin/dxvk/wiki/Driver-support) </br>
+Vulkan 1.1 </br>
 Nvidia: 470.82 - 510.47.03 </br>
 AMD (RADV): 20.2 - 22.0 </br>
 Intel (ANV): 22.0 - 22.0 </br>
