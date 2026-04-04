@@ -44,7 +44,7 @@ Since: [WineHQ v10.16](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu
 "perfect sync" between Linux Posix & Windows API calls "3rd gen sync" </br>
 2019 Proton-ge "Wine" & DXVK have F-sync "almost perfect" 2nd gen sync, </br>
 2018 E-sync "1st Gen Sync" </br>
-Older: Wineserver NoSync </br>
+Older: Wineserver </br>
 
 [Days Gone v1.33](https://www.gog.com/en/game/days_gone) REQUIRES F-Sync or NTsync </br>
 Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) Requires to manually compile a Newer DXVK [v1.3.0](https://github.com/doitsujin/dxvk/releases/tag/v1.3) minimum </br>
