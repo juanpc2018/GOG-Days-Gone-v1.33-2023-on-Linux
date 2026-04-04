@@ -176,10 +176,9 @@ mesa-vulkan </br>
 24.04.1 </br>
 24.04.2 </br>
 24.04.3 </br>
-
 24.04.4 </br>
 comes with: </br>
-Kernel 6.17  </br>
+Kernel 6.17 same as 25.10 </br>
 Nvidia driver 470 Fail </br>
 Nvidia driver 535 install ok </br>
 Wine64 9.0-repack-4build3 install ok </br>
@@ -209,7 +208,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## [Ubuntu](https://releases.ubuntu.com/25.10/ubuntu-25.10-desktop-amd64.iso.torrent) / [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/25.10/release/kubuntu-25.10-desktop-amd64.iso.torrent) 25.10 LTS
+## [Ubuntu](https://releases.ubuntu.com/25.10/ubuntu-25.10-desktop-amd64.iso.torrent) / [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/25.10/release/kubuntu-25.10-desktop-amd64.iso.torrent) 25.10
 
 comes with: </br>
 Kernel 6.17 </br>
