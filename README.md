@@ -94,7 +94,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 21.10
+## [Ubuntu]() / [Kubuntu]() 21.10
 
 comes with: </br>
 Kernel 5. </br>
@@ -144,7 +144,7 @@ Ubuntu 22.04 KDE Neon reeport problems with: libpoppler-glib8 dependency. </br>
 Solution: Downgrade package to official Ubuntu version: </br>
 > sudo apt install libpoppler-glib8:{i386,amd64}=22.02.0-2ubuntu0.3 </br>
 
-## Ubuntu 22.10
+## [Ubuntu](https://web.archive.org/web/20230127223439if_/https://releases.ubuntu.com/22.10/ubuntu-22.10-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20221229231106if_/https://cdimage.ubuntu.com/kubuntu/releases/22.10/release/kubuntu-22.10-desktop-amd64.iso.torrent) 22.10
 
 comes with: </br>
 Kernel  </br>
