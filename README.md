@@ -41,7 +41,7 @@ speed fps also low = Worse. </br>
 Since: [WineHQ v10.16](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Proton-GE 10.9, Linux Kernel 6.14 (Mar"3"/2025) & DXVK, SteamOS 3.7.20 have: </br>
 > $ ls -l /dev/[NTSync](https://www.youtube.com/watch?v=PFkX9wN8xPE&t=91s)
 
-"perfect sync" between Linux Posix & Windows API calls "3rd gen sync" </br>
+2025 NTsync "perfect sync" between Linux Posix & Windows API calls "3rd gen sync" </br>
 2019 Proton-ge "Wine" & DXVK have F-sync "almost perfect" 2nd gen sync, </br>
 2018 E-sync "1st Gen Sync" </br>
 Older: Wineserver </br>
