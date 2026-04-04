@@ -65,7 +65,8 @@ DXVK 1.10.3 was the last v1.x, Next version is [DXVK v2.0](https://github.com/do
 Optional: Liquorix Kernel [6.3.13-1](https://github.com/damentz/liquorix-package/releases/tag/6.3-13) Tested on 20.04.4 LTS | [6.3-12](https://github.com/damentz/liquorix-package/releases/tag/6.3-12) -> [6.4.1](https://github.com/damentz/liquorix-package/releases/tag/6.4-1)  </br>
 NTSync REQUIRES Kernel [6.14-1](https://github.com/damentz/liquorix-package/releases/tag/6.14-1) or Newer[-2](https://github.com/damentz/liquorix-package/releases/tag/6.14-2).[-3](https://github.com/damentz/liquorix-package/releases/tag/6.14-3).[-4](https://github.com/damentz/liquorix-package/releases/tag/6.14-4).[-5](https://github.com/damentz/liquorix-package/releases/tag/6.14-5).[-6](https://github.com/damentz/liquorix-package/releases/tag/6.14-6).[-7](https://github.com/damentz/liquorix-package/releases/tag/6.14-7).[-8](https://github.com/damentz/liquorix-package/releases/tag/6.14-8).[-9](https://github.com/damentz/liquorix-package/releases/tag/6.14-9).[-10](https://github.com/damentz/liquorix-package/releases/tag/6.14-10).[-11](https://github.com/damentz/liquorix-package/releases/tag/6.14-11).[-12](https://github.com/damentz/liquorix-package/releases/tag/6.14-12).[-13](https://github.com/damentz/liquorix-package/releases/tag/6.14-13).[-14](https://github.com/damentz/liquorix-package/releases/tag/6.14-14) </br>
 
-## Ubuntu [20.04.6 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01)
+### [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
+## [Ubuntu](https://web.archive.org/web/20230629102717if_/http://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso.torrent) 20.04.6 LTS
 
 has: </br>
 Kernel 5. </br>
@@ -147,7 +148,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 23.04
+## [Ubuntu](https://web.archive.org/web/20230518231656if_/https://releases.ubuntu.com/23.04/ubuntu-23.04-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20230528024027if_/https://cdimage.ubuntu.com/kubuntu/releases/23.04/release/kubuntu-23.04-desktop-amd64.iso.torrent) 23.04
 
 comes with: </br>
 Kernel  </br>
