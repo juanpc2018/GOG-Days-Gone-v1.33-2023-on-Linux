@@ -53,7 +53,14 @@ Kernel 5.15 </br>
 wine-5.0 (Ubuntu 5.0-3ubuntu1) </br>
 DXVK 1.2.13 </br>
 mesa-vulkan 21.2.6 </br>
+NVIDIA 535.230.02 </br>
 ![Image](https://github.com/user-attachments/assets/6ab39365-c1ce-46f9-b180-0b82b48e4036)
+
+[DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) [requires:](https://github.com/doitsujin/dxvk/wiki/Driver-support) </br>
+Nvidia: 470.82 - 510.47.03 </br>
+AMD (RADV): 20.2 - 22.0 </br>
+Intel (ANV): 22.0 - 22.0 </br>
+DXVK 1.10.3 was the last v1.x, Next version is [DXVK v2.0](https://github.com/doitsujin/dxvk/releases/tag/v2.0) </br>
 
 Optional: Liquorix Kernel [6.3.13-1](https://github.com/damentz/liquorix-package/releases/tag/6.3-13) Tested on 20.04.4 LTS | [6.3-12](https://github.com/damentz/liquorix-package/releases/tag/6.3-12) -> [6.4.1](https://github.com/damentz/liquorix-package/releases/tag/6.4-1)  </br>
 NTSync REQUIRES Kernel [6.14-1](https://github.com/damentz/liquorix-package/releases/tag/6.14-1) or Newer[-2](https://github.com/damentz/liquorix-package/releases/tag/6.14-2).[-3](https://github.com/damentz/liquorix-package/releases/tag/6.14-3).[-4](https://github.com/damentz/liquorix-package/releases/tag/6.14-4).[-5](https://github.com/damentz/liquorix-package/releases/tag/6.14-5).[-6](https://github.com/damentz/liquorix-package/releases/tag/6.14-6).[-7](https://github.com/damentz/liquorix-package/releases/tag/6.14-7).[-8](https://github.com/damentz/liquorix-package/releases/tag/6.14-8).[-9](https://github.com/damentz/liquorix-package/releases/tag/6.14-9).[-10](https://github.com/damentz/liquorix-package/releases/tag/6.14-10).[-11](https://github.com/damentz/liquorix-package/releases/tag/6.14-11).[-12](https://github.com/damentz/liquorix-package/releases/tag/6.14-12).[-13](https://github.com/damentz/liquorix-package/releases/tag/6.14-13).[-14](https://github.com/damentz/liquorix-package/releases/tag/6.14-14) </br>
