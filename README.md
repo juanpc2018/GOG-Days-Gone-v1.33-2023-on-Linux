@@ -170,7 +170,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 24.10 LTS / Kubunru [24.10](https://web.archive.org/web/20250418145903if_/https://cdimage.ubuntu.com/kubuntu/releases/24.10/release/kubuntu-24.10-desktop-amd64.iso.torrent)  LTS
+## Ubuntu [24.10](https://web.archive.org/web/20250215165431if_/https://releases.ubuntu.com/24.10/ubuntu-24.10-desktop-amd64.iso.torrent) LTS / Kubunru [24.10](https://web.archive.org/web/20250418145903if_/https://cdimage.ubuntu.com/kubuntu/releases/24.10/release/kubuntu-24.10-desktop-amd64.iso.torrent)  LTS
 
 comes with: </br>
 Kernel 6.11 </br>
