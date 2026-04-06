@@ -28,14 +28,49 @@ GPU's from 2016 Q4 "Oct-Nov-Dec" like GTX 1050 Ti do Not support 32-Bit PhysX, u
 very old GPUs: Quadro 6000 (2010) & GTX 470 Require driver 390.xx </br>
 
 #### Sound
-"PulseAudio" does Not work forced at 48KHz </br>
-but Wine Config Test works ok. </br>
-will test Jack later. </br>
+"PulseAudio" does Not work on System Wine 5.0 </br>
+but Wine Config Test works. </br>
+Jack does Not work with System Wine 5.0. </br>
 
 Turning OFF DXVK, </br>
 game works on newer Wine, </br>
 but colors are wrong. </br>
 speed fps also low = Worse. </br>
+
+Audio Sollution: </br>
+installing WineHQ 10 </br>
+PulseAudio Work ok.  </br>
+Jakc work ok. </br>
+Proton ge wine 8.0 does Not work. </br>
+
+Low FPS Sollution:  </br>
+creating a wineprefix "wine virtual machine directory"  </br>
+installing DXVK 1.10.3 to wineprefit </br>
+system wine 5.0 wineprefix is: </br>
+> /home/user_name/.wine  </br>
+
+install latest WineHW  </br>
+selecting Wine 10.2 from Lutris .18  </br>
+Disable E-Sync on Lutris, Only F-Sync </br>
+creating a wineprefix for wine 10.2 </br>
+> /home/user_name/.local/share/wineprefixes/prefix_name </br>
+
+installing DXVK 1.10.3 to that prefix </br>
+DONE </br>
+Nvidia driver 535 or 570 Will work in 20.04.4 LTS </br>
+Problem: </br>
+[Quadro M6000 24GB (Q1 2016)](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) / GTX 980 Ti = Not Fast Enough. </br>
+maybe also intel i3-12100 Not fast enough. </br>
+720p & LOW Preset is Not enough </br>
+vs. </br>
+PlayStation PS5 Pro "High Quality 30fps or Low Quality "Performance" 60fps modes. </br>
+
+¿What is the Fastest GPU for [Linux 20.04.4 LTS](https://www.nvidia.com/en-us/drivers/unix/) NVIDIA driver 570 ? </br>
+[RTX](https://www.nvidia.com/download/driverResults.aspx/242273/en-us/) </br>
+[NVIDIA Unix Driver Archive](https://download.nvidia.com/XFree86/Linux-x86_64/) </br>
+
+incredible a Quadro M2000 is enough for Batman Arham Asylum + Physx </br>
+but a Quadro M6000 24GB is useless for Days Gone Remastered (2023) v1.33 </br>
 
 -----------------
 
