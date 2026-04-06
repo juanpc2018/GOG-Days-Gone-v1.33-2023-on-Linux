@@ -63,8 +63,9 @@ PlayStation PS5 Pro "High Quality 30fps or Low Quality "Performance" 60fps modes
 ¿What is the Fastest GPU for [Linux 20.04.4 LTS](https://www.nvidia.com/en-us/drivers/unix/) NVIDIA driver 570 ? </br>
 [RTX](https://www.nvidia.com/download/driverResults.aspx/242273/en-us/) </br>
 [NVIDIA Unix Driver Archive](https://download.nvidia.com/XFree86/Linux-x86_64/) </br>
+[others](https://www.nvidia.com/en-us/drivers/unix/) </br>
 
-incredible a Quadro M2000 is enough for Batman Arkham Asylum + Physx </br>
+incredible a [Quadro M2000 (Q2 2016)](https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837) is enough for Batman Arkham Asylum (2009) + Physx </br>
 but Quadro M6000 24GB is useless for Days Gone v1.33 Remastered (2023) </br>
 
 -----------------
