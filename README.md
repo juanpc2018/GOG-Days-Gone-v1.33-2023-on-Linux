@@ -64,7 +64,7 @@ PlayStation PS5 Pro "High Quality 30fps or Low Quality "Performance" 60fps modes
 [RTX](https://www.nvidia.com/download/driverResults.aspx/242273/en-us/) </br>
 [NVIDIA Unix Driver Archive](https://download.nvidia.com/XFree86/Linux-x86_64/) </br>
 
-incredible a Quadro M2000 is enough for Batman Arham Asylum + Physx </br>
+incredible a Quadro M2000 is enough for Batman Arkham Asylum + Physx </br>
 but Quadro M6000 24GB is useless for Days Gone v1.33 Remastered (2023) </br>
 
 -----------------
