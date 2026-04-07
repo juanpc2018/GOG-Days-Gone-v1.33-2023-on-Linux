@@ -40,8 +40,8 @@ Jack works ok. </br>
 Proton-ge wine 8.0 does Not work. </br>
 
 #### Low FPS Sollution:  </br>
-creating a wineprefix "wine virtual machine folder"  </br>
-installing DXVK 1.10.3 to wineprefix </br>
+create a wineprefix "wine virtual machine folder"  </br>
+install [DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) to wineprefix folder </br>
 
 Older system wine 5.0 wineprefix is: </br>
 > /home/user/.wine  </br>
@@ -50,11 +50,12 @@ Newer Wine are: </br>
 > /home/user/.local/share/wineprefixes/prefix_name </br>
 
 install latest Wine from WineHQ archive or "easy" using: </br>
-Lutris|Runners <-side bar|Wine icon|{Manage Wine versions}|Configure </br>
+Lutris Runners| <-side bar|Wine icon|{Manage Wine versions}|Configure </br>
+
 Then Select game | 3rd mouse click: configure | select Runner: latest Wine 11.2  </br>
 
 Disable E-Sync, Only F-Sync </br>
-create wineprefix for Wine 11.2 in winetricks: Select Game|Bottom Right Icon</br>
+create wineprefix for Wine 11.2 in winetricks: Select {Game}|Bottom Right Icon</br>
 > /home/user_name/.local/share/wineprefixes/prefix_name </br>
 
 install: [DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) to New created prefix </br>
@@ -63,18 +64,18 @@ DONE </br>
 Nvidia driver 535 or 570 work in 20.04.4 LTS </br>
 
 #### Problem: </br>
-[Quadro M6000 24GB (Q1 2016)](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) / GTX 980 Ti = Not Fast Enough. </br>
+[Quadro M6000 24GB (Q1 2016)](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) / [GTX 980 Ti](https://www.techpowerup.com/gpu-specs/geforce-gtx-980-ti.c2724) = Not Fast Enough. </br>
 maybe also intel i3-12100 Not fast enough. </br>
 720p & LOW Preset = Not enough </br>
 vs. </br>
-PlayStation PS5 Pro "High-Quality=30fps & Low-Quality "Performance" 60fps modes. </br>
+PlayStation PS5 Pro "High-Quality=30fps or Low-Quality "Performance" 60fps mode. </br>
 
 ¿What is the Fastest GPU for [Linux 20.04.4 LTS](https://www.nvidia.com/en-us/drivers/unix/) NVIDIA driver 570 ? </br>
 [RTX](https://www.nvidia.com/download/driverResults.aspx/242273/en-us/) </br>
 [NVIDIA Unix Driver Archive](https://download.nvidia.com/XFree86/Linux-x86_64/) </br>
 [others](https://www.nvidia.com/en-us/drivers/unix/) </br>
 
-incredible a [Quadro M2000 (Q2 2016)](https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837) is enough for Batman Arkham Asylum (2009) + Physx </br>
+incredible a [Quadro M2000 (Q2 2016)](https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837) is enough for Batman Arkham Asylum (2009) v1.1 + Physx </br>
 but Quadro M6000 24GB is useless for Days Gone v1.33 Remastered (2023) </br>
 
 ![Screenshot_20260405_232612](https://github.com/user-attachments/assets/5296f7d3-7a9e-457d-aa8d-26c242d36938) </br>
@@ -111,17 +112,29 @@ Intel (ANV): 22.0 - 22.0 </br>
 DXVK 1.10.3 was the last v1.x, Next version is [DXVK v2.0](https://github.com/doitsujin/dxvk/releases/tag/v2.0) </br>
 Nvidia [Kepler](https://en.wikipedia.org/wiki/Kepler_(microarchitecture)#Kepler_dies) (most GTX 6x0 / 7x0) Require [DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) or older. </br>
 
-Generic Kernel is ok for Office workloads, but for Gaming Requires: Liquorix Kernel [6.3.13-1](https://github.com/damentz/liquorix-package/releases/tag/6.3-13) Tested on 20.04.4 LTS | [6.3-12](https://github.com/damentz/liquorix-package/releases/tag/6.3-12) -> [6.4.1](https://github.com/damentz/liquorix-package/releases/tag/6.4-1)  </br>
+Generic Kernel is ok for Office, but for Gaming Requires: LowLatency or Liquorix Kernel [6.3.13-1](https://github.com/damentz/liquorix-package/releases/tag/6.3-13) Tested on 20.04.4 LTS | [6.3-12](https://github.com/damentz/liquorix-package/releases/tag/6.3-12) -> [6.4.1](https://github.com/damentz/liquorix-package/releases/tag/6.4-1)  </br>
 
 NTSync REQUIRES Kernel v[6.14-1](https://github.com/damentz/liquorix-package/releases/tag/6.14-1) or Newer[-2](https://github.com/damentz/liquorix-package/releases/tag/6.14-2).[-3](https://github.com/damentz/liquorix-package/releases/tag/6.14-3).[-4](https://github.com/damentz/liquorix-package/releases/tag/6.14-4).[-5](https://github.com/damentz/liquorix-package/releases/tag/6.14-5).[-6](https://github.com/damentz/liquorix-package/releases/tag/6.14-6).[-7](https://github.com/damentz/liquorix-package/releases/tag/6.14-7).[-8](https://github.com/damentz/liquorix-package/releases/tag/6.14-8).[-9](https://github.com/damentz/liquorix-package/releases/tag/6.14-9).[-10](https://github.com/damentz/liquorix-package/releases/tag/6.14-10).[-11](https://github.com/damentz/liquorix-package/releases/tag/6.14-11).[-12](https://github.com/damentz/liquorix-package/releases/tag/6.14-12).[-13](https://github.com/damentz/liquorix-package/releases/tag/6.14-13).[-14](https://github.com/damentz/liquorix-package/releases/tag/6.14-14) </br>
 
-NTsync with Generic Kernel is inferior vs. F-Sync with Lowlatency Kernel. </br>
+NTsync with Generic Kernel is inferior vs. F-Sync with Low-Latency/Liquorix Kernel. </br>
 Tested: 20.04.4 LTS vs. 24.04.4 </br>
-20.04.4 LTS Runs smoother, No Hicups, when limited by same GPU. </br>
+20.04.4 LTS Runs smoother, No Hicups, with same GPU. </br>
 
-Is worth installing Newer Linux? No in my opinion. </br>
+Is worth installing a Newer Linux? No in my opinion. </br>
 does RTX 5050 8GB work in 20.04.4 LTS ? TBA </br>
 is RTX 5050 8GB enough for Days Gone v1.33 ? TBA </br>
+
+The most popular GPU on Stean is [RTX 5070 12GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070.c4218) </br>
+but i think [RTX 4060 Ti 16GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292) is better </br>
+[5050 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5050.c4220), [5060 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060.c4219), [5060 Ti 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-8-gb.c4246), [5070 Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-super.c4311), [5070 Ti](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti.c4243), [5070 Ti Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti-super.c4312), [5080](https://www.techpowerup.com/gpu-specs/geforce-rtx-5080.c4217), [5080 Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5080-super.c4302), [5090](https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216) </br>
+
+All Ti, Super, Ti Super are in-between steps between 5070 -> 5080 or 5080 -> 5090 </br>
+The goal is to have as low power consumption as possible with decent gaming experience. </br>
+5050 8GB is >[50%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5050/m145751vs4185) faster vs. [M6000 24GB (2016)](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) </br>
+5060 8GB is [100%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5060/m145751vs4184) faster. </br>
+5070 12GB is >[200%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5070/m145751vs4182) faster. </br>
+5080 12GB is >[300%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5080/m145751vs4179) faster. </br>
+5090 12GB is <[500%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5090/m145751vs4180) faster. </br>
 
 ### [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
 ## [Ubuntu](https://web.archive.org/web/20230629102717if_/http://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso.torrent) 20.04.6 LTS
