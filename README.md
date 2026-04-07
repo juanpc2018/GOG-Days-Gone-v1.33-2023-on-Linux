@@ -78,7 +78,7 @@ PlayStation PS5 Pro "High-Quality=30fps or Low-Quality "Performance" 60fps mode.
 [others](https://www.nvidia.com/en-us/drivers/unix/) </br>
 
 incredible a [Quadro M2000 (Q2 2016)](https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837) is enough for Batman Arkham Asylum (2009) v1.1 + Physx </br>
-but Quadro M6000 24GB is useless for Days Gone v1.33 Remastered (2023) </br>
+but [Quadro M6000 24GB](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) is useless for [Days Gone v1.33 Remastered (2023)](https://www.gog.com/en/game/days_gone) </br>
 
 ![Screenshot_20260405_232612](https://github.com/user-attachments/assets/5296f7d3-7a9e-457d-aa8d-26c242d36938) </br>
 ![Screenshot_20260405_231715](https://github.com/user-attachments/assets/c4c7d58f-389b-4099-b2c6-fe43ea8e8b06) </br>
