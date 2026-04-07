@@ -11,7 +11,7 @@ The Goal is to Run [Days Gone v1.33](https://www.gog.com/en/game/days_gone) as g
 is 64-Bit but installing 32-Bit is required by Lutris. </br>
 
 [Days Gone v1.33](https://www.gog.com/en/game/days_gone) works on Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
-using System Wine 5, and System DXVK + Lutris .18 "Extra" Libraries, </br>
+using System Wine 5, and System DXVK 1.2.13 + Lutris .18 "Extra" Libraries, </br>
 but has [4 fps](https://www.reddit.com/r/linux_gaming/comments/nrz1wt/days_gone_with_winelutris_at_4fps/) </br>
 "works" Lutris .18 forced to [1.7.1](https://github.com/doitsujin/dxvk/releases/tag/v1.7.1) Not Manual v1.2.13 </br>
 very [low fps](https://github.com/doitsujin/dxvk/issues/2065) </br>
@@ -21,44 +21,51 @@ Small Error: </br>
 
 NVIDIA Driver 570 is the latest for Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
 NVIDIA Driver 470, Lutris DXVK Complains is too old. </br>
-but 20.04.4 LTS + NVIDIA 470 driver is required for Older 32-Bit games like Batman Arkham Asylum 32-Bit PhysX </br>
+but NVIDIA 470 driver is required for Older 32-Bit games like Batman Arkham Asylum 32-Bit PhysX </br>
 32-Bit PhysX requires GPUs from 2016 Q3 and older, or latest RTX 50x0 </br>
-GPU's from 2016 Q4 "Oct-Nov-Dec" like GTX 1050 Ti do Not support 32-Bit PhysX, up to RTX 40x0 </br>
+GPU's between 2016 Q4 "Oct-Nov-Dec" & RTX 40x0, like GTX 1050 Ti do Not support 32-Bit PhysX. </br>
 
 very old GPUs: Quadro 6000 (2010) & GTX 470 Require driver 390.xx </br>
 
 #### Sound
-"PulseAudio" does Not work on System Wine 5.0 </br>
-but Wine Config Test works. </br>
+DaysGone "PulseAudio" does Not work on System Wine 5.0 </br>
 Jack does Not work with System Wine 5.0. </br>
+but Wine Config Test works. </br>
 
 #### Audio Sollution: </br>
-installing WineHQ 10 </br>
+installing WineHQ Staging 11.2 </br>
 PulseAudio Work ok.  </br>
-Jakc work ok. </br>
-Proton ge wine 8.0 does Not work. </br>
+Jack works ok. </br>
+Proton-ge wine 8.0 does Not work. </br>
 
 #### Low FPS Sollution:  </br>
 creating a wineprefix "wine virtual machine folder"  </br>
 installing DXVK 1.10.3 to wineprefix </br>
-system wine 5.0 wineprefix is: </br>
-> /home/user_name/.wine  </br>
 
-install latest WineHW  </br>
-selecting Wine 10.2 from Lutris .18  </br>
-Disable E-Sync on Lutris, Only F-Sync </br>
+Older system wine 5.0 wineprefix is: </br>
+> /home/user/.wine  </br>
+
+Newer Wine are: </br>
+> /home/user/.local/share/wineprefixes/prefix_name </br>
+
+install latest Wine from WineHQ archive or "easy" using Lutris|Linux icon|{Manage Wine versions} </br>
+Select game | configure | select runner: laest Wine 11.2  </br>
+
+Disable E-Sync, Only F-Sync </br>
 create a wineprefix for wine 10.2 in winetricks </br>
 > /home/user_name/.local/share/wineprefixes/prefix_name </br>
 
 installing DXVK 1.10.3 to the New created prefix </br>
 DONE </br>
+
 Nvidia driver 535 or 570 work in 20.04.4 LTS </br>
+
 #### Problem: </br>
 [Quadro M6000 24GB (Q1 2016)](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) / GTX 980 Ti = Not Fast Enough. </br>
 maybe also intel i3-12100 Not fast enough. </br>
 720p & LOW Preset = Not enough </br>
 vs. </br>
-PlayStation PS5 Pro "High Quality 30fps or Low Quality "Performance" 60fps modes. </br>
+PlayStation PS5 Pro "High-Quality=30fps & Low-Quality "Performance" 60fps modes. </br>
 
 ¿What is the Fastest GPU for [Linux 20.04.4 LTS](https://www.nvidia.com/en-us/drivers/unix/) NVIDIA driver 570 ? </br>
 [RTX](https://www.nvidia.com/download/driverResults.aspx/242273/en-us/) </br>
@@ -77,7 +84,7 @@ but Quadro M6000 24GB is useless for Days Gone v1.33 Remastered (2023) </br>
 
 ## NTSync
 
-Since: [WineHQ v10.16](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Proton-GE 10.9, Linux Kernel 6.14 (Mar"3"/2025) & DXVK, SteamOS 3.7.20 have: </br>
+Since: Linux Kernel 6.14 (Mar"3"/2025), [WineHQ v10.16](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu), Proton-GE 10.9, DXVK, SteamOS 3.7.20 have: </br>
 > $ ls -l /dev/[NTSync](https://www.youtube.com/watch?v=PFkX9wN8xPE&t=91s)
 
 2025 NTsync "perfect sync" between Linux Posix & Windows API calls "3rd gen sync" </br>
@@ -86,7 +93,7 @@ Since: [WineHQ v10.16](https://gitlab.winehq.org/wine/wine/-/wikis/Debian-Ubuntu
 Older: Wineserver </br>
 
 [Days Gone v1.33](https://www.gog.com/en/game/days_gone) REQUIRES F-Sync or NTsync </br>
-Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) Requires to manually install / compile a Newer DXVK [v1.3.0](https://github.com/doitsujin/dxvk/releases/tag/v1.3) minimum </br>
+Ubuntu [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) Requires manuall install Newer DXVK [v1.3.0](https://github.com/doitsujin/dxvk/releases/tag/v1.3) minimum, [DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) works ok / tested. </br>
 Ubuntu 20.04.4 comes with: </br>
 Kernel 5.15 </br>
 wine-5.0 (Ubuntu 5.0-3ubuntu1) </br>
@@ -102,8 +109,17 @@ Intel (ANV): 22.0 - 22.0 </br>
 DXVK 1.10.3 was the last v1.x, Next version is [DXVK v2.0](https://github.com/doitsujin/dxvk/releases/tag/v2.0) </br>
 Nvidia [Kepler](https://en.wikipedia.org/wiki/Kepler_(microarchitecture)#Kepler_dies) (most GTX 6x0 / 7x0) Require [DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) or older. </br>
 
-Optional: Liquorix Kernel [6.3.13-1](https://github.com/damentz/liquorix-package/releases/tag/6.3-13) Tested on 20.04.4 LTS | [6.3-12](https://github.com/damentz/liquorix-package/releases/tag/6.3-12) -> [6.4.1](https://github.com/damentz/liquorix-package/releases/tag/6.4-1)  </br>
-NTSync REQUIRES Kernel [6.14-1](https://github.com/damentz/liquorix-package/releases/tag/6.14-1) or Newer[-2](https://github.com/damentz/liquorix-package/releases/tag/6.14-2).[-3](https://github.com/damentz/liquorix-package/releases/tag/6.14-3).[-4](https://github.com/damentz/liquorix-package/releases/tag/6.14-4).[-5](https://github.com/damentz/liquorix-package/releases/tag/6.14-5).[-6](https://github.com/damentz/liquorix-package/releases/tag/6.14-6).[-7](https://github.com/damentz/liquorix-package/releases/tag/6.14-7).[-8](https://github.com/damentz/liquorix-package/releases/tag/6.14-8).[-9](https://github.com/damentz/liquorix-package/releases/tag/6.14-9).[-10](https://github.com/damentz/liquorix-package/releases/tag/6.14-10).[-11](https://github.com/damentz/liquorix-package/releases/tag/6.14-11).[-12](https://github.com/damentz/liquorix-package/releases/tag/6.14-12).[-13](https://github.com/damentz/liquorix-package/releases/tag/6.14-13).[-14](https://github.com/damentz/liquorix-package/releases/tag/6.14-14) </br>
+Generic Kernel is ok for Office workloads, but for Gaming Requires: Liquorix Kernel [6.3.13-1](https://github.com/damentz/liquorix-package/releases/tag/6.3-13) Tested on 20.04.4 LTS | [6.3-12](https://github.com/damentz/liquorix-package/releases/tag/6.3-12) -> [6.4.1](https://github.com/damentz/liquorix-package/releases/tag/6.4-1)  </br>
+
+NTSync REQUIRES Kernel v[6.14-1](https://github.com/damentz/liquorix-package/releases/tag/6.14-1) or Newer[-2](https://github.com/damentz/liquorix-package/releases/tag/6.14-2).[-3](https://github.com/damentz/liquorix-package/releases/tag/6.14-3).[-4](https://github.com/damentz/liquorix-package/releases/tag/6.14-4).[-5](https://github.com/damentz/liquorix-package/releases/tag/6.14-5).[-6](https://github.com/damentz/liquorix-package/releases/tag/6.14-6).[-7](https://github.com/damentz/liquorix-package/releases/tag/6.14-7).[-8](https://github.com/damentz/liquorix-package/releases/tag/6.14-8).[-9](https://github.com/damentz/liquorix-package/releases/tag/6.14-9).[-10](https://github.com/damentz/liquorix-package/releases/tag/6.14-10).[-11](https://github.com/damentz/liquorix-package/releases/tag/6.14-11).[-12](https://github.com/damentz/liquorix-package/releases/tag/6.14-12).[-13](https://github.com/damentz/liquorix-package/releases/tag/6.14-13).[-14](https://github.com/damentz/liquorix-package/releases/tag/6.14-14) </br>
+
+NTsync with Generic Kernel is inferior vs. F-Sync with Lowlatency Kernel. </br>
+Tested: 20.04.4 LTS vs. 24.04.4 </br>
+20.04.4 LTS Runs smoother, No Hicups, when limited by same GPU. </br>
+
+Is worth installing Newer Linux? No in my opinion. </br>
+does RTX 5050 8GB work in 20.04.4 LTS ? TBA </br>
+is RTX 5050 8GB enough for Days Gone v1.33 ? TBA </br>
 
 ### [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
 ## [Ubuntu](https://web.archive.org/web/20230629102717if_/http://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso.torrent) 20.04.6 LTS
