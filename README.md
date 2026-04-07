@@ -25,7 +25,8 @@ but NVIDIA 470 driver is required for Older 32-Bit games like Batman Arkham Asyl
 32-Bit PhysX requires GPUs from 2016 Q3 and older, or latest RTX 50x0 </br>
 GPU's between 2016 Q4 "Oct-Nov-Dec" & RTX 40x0, like [GTX 1050 Ti](https://www.techpowerup.com/gpu-specs/geforce-gtx-1050-ti.c2885) do Not support 32-Bit PhysX. </br>
 
-very old GPUs: Quadro 6000 (2010) & GTX 470 Require driver 390.xx </br>
+very old GPUs: [Quadro 6000 (2010)](https://www.techpowerup.com/gpu-specs/quadro-6000.c896), [GTX 470](https://www.techpowerup.com/gpu-specs/geforce-gtx-470.c267), [GTX 275](https://www.techpowerup.com/gpu-specs/geforce-gtx-275-physx-edition.c1951) Require driver 390.xx </br>
+
 
 #### Sound
 DaysGone "PulseAudio" does Not work on System Wine 5.0 </br>
