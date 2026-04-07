@@ -138,6 +138,10 @@ The goal is to have as low power consumption as possible with decent gaming expe
 5080 12GB is >[340%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5080/m145751vs4179) faster. </br>
 5090 12GB is <[500%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5090/m145751vs4180) faster. </br>
 
+M6000 24GB is Not Enough for DaysGone v1.33 probably becasue is limited by PCIe 3.0 x16 & GDDR5 </br>
+GPUs like [RTX 2080 Ti (Q3 2018)](https://www.techpowerup.com/gpu-specs/geforce-rtx-2080-ti.c3305) are also limited by PCIe 3.0 x16 </br>
+
+
 ### [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
 ## [Ubuntu](https://web.archive.org/web/20230629102717if_/http://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso.torrent) 20.04.6 LTS
 
