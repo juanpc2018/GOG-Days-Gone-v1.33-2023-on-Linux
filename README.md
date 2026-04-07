@@ -135,7 +135,7 @@ The goal is to have as low power consumption as possible with decent gaming expe
 5060 8GB is <[130%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5060-Ti/m145751vs4183) faster. </br>
 5070 12GB is >[200%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5070/m145751vs4182) faster. </br> 
 5070 Ti 12GB is <[300%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5070-Ti/m145751vs4181) faster. </br>
-5080 12GB is >[300%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5080/m145751vs4179) faster. </br>
+5080 12GB is >[340%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5080/m145751vs4179) faster. </br>
 5090 12GB is <[500%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5090/m145751vs4180) faster. </br>
 
 ### [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
