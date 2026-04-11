@@ -260,7 +260,7 @@ without internet, will freeze after password. </br>
 
 VirtualBox 6.1.50 does Not work well, </br>
 Driver CD does Not install / compile on 24.04.4 </br>
-VBox requires VMWare Video HW, wont work with VB_SVGA video card. </br>
+VBox requires VMWare Video HW, wont work with VB_SVGA video. </br>
 
 comes with: </br>
 Kernel 6.17 same as 25.10 </br>
