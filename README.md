@@ -232,6 +232,8 @@ Driver [Requirements](https://dgpu-docs.intel.com/devices/hardware-table.html) <
 Intel® Arc™ B580 Graphics | Xe2 | Battlemage | 6.11* | 320 | PCI ID: E20B </br>
 *requires force-probe kernel parameter. </br>
 
+¿Arc B580 works with Liquorix Kernel or LowLatency Kernel? Unknown. </br>
+
 [install instructions](https://dgpu-docs.intel.com/driver/client/overview.html#ubuntu-22.04) </br>
 > wget -qO - https://repositories.intel.com/gpu/intel-graphics.key | \ </br>
 > sudo gpg --yes --dearmor --output /usr/share/keyrings/intel-graphics.gpg </br>
