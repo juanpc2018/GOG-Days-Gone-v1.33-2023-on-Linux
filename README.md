@@ -7,7 +7,7 @@ GOG also has [DLC version](https://www.gog.com/en/game/days_gone_broken_road_dlc
 Lutris [0.5.18](https://github.com/lutris/lutris/releases/tag/v0.5.18) is the most compatible .deb installer </br>
 Lutris [0.5.20](https://github.com/lutris/lutris/releases/tag/v0.5.20) / [.22](https://github.com/lutris/lutris/releases/tag/v0.5.22) has "Special Requirements" *Ubuntu [24 or 25](https://en.wikipedia.org/wiki/Ubuntu_version_history#Table_of_versions) </br>
 
-Lutris is a game biased: PlayOnLinux 4.3.4 + GUI Winetricks Front-End. </br>
+Lutris is a gamer version of PlayOnLinux 4.3.4 + GUI Winetricks Front-End. </br>
 
 The Goal is to Run [Days Gone v1.33](https://www.gog.com/en/game/days_gone) as good as possible on Linux </br>
 is 64-Bit but installing 32-Bit is required by Lutris. </br>
@@ -67,7 +67,7 @@ Nvidia driver 535 or 570 work in 20.04.4 LTS </br>
 
 #### Problem: </br>
 [Quadro M6000 24GB (Q1 2016)](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) / [GTX 980 Ti](https://www.techpowerup.com/gpu-specs/geforce-gtx-980-ti.c2724) = Not Fast Enough. </br>
-maybe also intel i3-12100 Not fast enough. </br>
+also intel i3-12100 maybe Not fast enough. </br>
 720p & LOW Preset = Not enough </br>
 vs. </br>
 PlayStation PS5 Pro "High-Quality=30fps or Low-Quality "Performance" 60fps mode. </br>
@@ -144,7 +144,7 @@ M6000 24GB is Not Enough for DaysGone v1.33 probably becasue is limited by PCIe 
 GPUs like [RTX 2080 Ti (Q3 2018)](https://www.techpowerup.com/gpu-specs/geforce-rtx-2080-ti.c3305) are also limited by PCIe 3.0 x16 </br>
 
 
-### [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
+## [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
 ## [Ubuntu](https://web.archive.org/web/20230629102717if_/http://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso.torrent) 20.04.6 LTS
 
 has: </br>
@@ -252,6 +252,16 @@ mesa-vulkan </br>
 24.04.2 </br>
 24.04.3 </br>
 24.04.4 </br>
+
+24.04.4 .iso has a New installer that requires internet, </br>
+without internet, Ubuntu 24.04.4 cannot be installed. </br>
+Requires FAT32 drivers, tools, & Map Location for Download server. </br>
+without internet, will freeze after password. </br>
+
+VirtualBox 6.1.50 does Not work well, </br>
+Driver CD does Not install / compile on 24.04.4 </br>
+VBox requires VMWare Video HW, wont work with VB_SVGA video card. </br>
+
 comes with: </br>
 Kernel 6.17 same as 25.10 </br>
 Nvidia driver 470 Fail </br>
@@ -259,7 +269,7 @@ Nvidia driver 535 install ok </br>
 Wine64 9.0-repack-4build3 install ok </br>
 Win32 does Not install </br>
 WineHQ-stable does Not install. </br>
-DXVK N/A = Requires [Manual install](https://github.com/doitsujin/dxvk/releases), No apt store PPA Repo. </br>
+DXVK N/A = Requires [Manual install](https://github.com/doitsujin/dxvk/releases) No apt store PPA Repo. </br>
 mesa-vulkan-drivers 25.2.8-0ubuntu0.24.04.1 </br>
 
 [DXVK Driver Requirements:](https://github.com/doitsujin/dxvk/wiki/Driver-support) </br>
