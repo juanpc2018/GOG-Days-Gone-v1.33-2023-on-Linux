@@ -221,7 +221,11 @@ Ubuntu 22.04 KDE Neon reeport problems with: libpoppler-glib8 dependency. </br>
 Solution: Downgrade package to official Ubuntu version: </br>
 > sudo apt install libpoppler-glib8:{i386,amd64}=22.02.0-2ubuntu0.3 </br>
 
-[intel B580 12GB](https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/downloads.html) GPU [driver](https://www.intel.com/content/www/us/en/download/747008/intel-arc-graphics-driver-ubuntu.html) requires 22.04 or Kernel 6.8 minimum </br>
+## [intel B580 12GB](https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/downloads.html) GPU [driver](https://www.intel.com/content/www/us/en/download/747008/intel-arc-graphics-driver-ubuntu.html) requires 22.04 or Kernel 6.8 minimum </br>
+
+Driver [Requirements](https://dgpu-docs.intel.com/devices/hardware-table.html) </br>
+Intel® Arc™ B580 Graphics | Xe2 | Battlemage | 6.11* | 320 | PCI ID: E20B </br>
+*requires force-probe kernel parameter. </br>
 
 [install instructions](https://dgpu-docs.intel.com/driver/client/overview.html#ubuntu-22.04) </br>
 > wget -qO - https://repositories.intel.com/gpu/intel-graphics.key | \ </br>
