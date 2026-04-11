@@ -125,6 +125,8 @@ Tested: 20.04.4 LTS vs. 24.04.4 </br>
 Is worth installing a Newer Linux? No in my opinion. </br>
 does RTX 5050 8GB work in 20.04.4 LTS ? TBA </br>
 is RTX 5050 8GB enough for Days Gone v1.33 ? TBA </br>
+is a good idea to buy a 8GB GPU in 2026? No. </br>
+
 
 The most popular GPU on Steam is [RTX 5070 12GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070.c4218) </br>
 but i think [RTX 4060 Ti 16GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292) is better </br>
@@ -218,6 +220,31 @@ or
 Ubuntu 22.04 KDE Neon reeport problems with: libpoppler-glib8 dependency. </br>
 Solution: Downgrade package to official Ubuntu version: </br>
 > sudo apt install libpoppler-glib8:{i386,amd64}=22.02.0-2ubuntu0.3 </br>
+
+[intel B580 12GB](https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/downloads.html) GPU [driver](https://www.intel.com/content/www/us/en/download/747008/intel-arc-graphics-driver-ubuntu.html) requires 22.04 or Kernel 6.8 minimum </br>
+
+[install instructions](https://dgpu-docs.intel.com/driver/client/overview.html#ubuntu-22.04) </br>
+> wget -qO - https://repositories.intel.com/gpu/intel-graphics.key | \ </br>
+> sudo gpg --yes --dearmor --output /usr/share/keyrings/intel-graphics.gpg </br>
+
+> echo "deb [arch=amd64,i386 signed-by=/usr/share/keyrings/intel-graphics.gpg] https://repositories.intel.com/gpu/ubuntu jammy unified" | \ </br>
+> sudo tee /etc/apt/sources.list.d/intel-gpu-jammy.list
+
+> sudo apt update </br>
+
+> sudo apt-get install -y libze-intel-gpu1 libze1 intel-opencl-icd clinfo </br>
+
+> sudo apt-get install -y libze-dev intel-ocloc </br>
+
+> sudo apt-get install -y intel-level-zero-gpu-raytracing </br>
+
+#### Verify install: </br>
+> clinfo | grep "Device Name" </br>
+Permissions to access /dev/dri/renderD*: </br>
+> sudo gpasswd -a ${USER} render </br>
+> newgrp render </br>
+
+> sudo clinfo </br>
 
 ## [Ubuntu](https://web.archive.org/web/20230127223439if_/https://releases.ubuntu.com/22.10/ubuntu-22.10-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20221229231106if_/https://cdimage.ubuntu.com/kubuntu/releases/22.10/release/kubuntu-22.10-desktop-amd64.iso.torrent) 22.10
 
