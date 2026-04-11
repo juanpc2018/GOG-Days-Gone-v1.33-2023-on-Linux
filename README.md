@@ -136,7 +136,7 @@ All Ti, Super, Ti Super are in-between steps between 5070 -> 5080 or 5080 -> 509
 The goal is to have as low power consumption as possible with decent gaming experience. </br>
 5050 8GB is >[50%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5050/m145751vs4185) faster vs. [M6000 24GB (2016)](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) = same as [P6000](https://gpu.userbenchmark.com/Compare/Nvidia-RTX-5050-vs-Nvidia-Quadro-P6000/4185vsm187394) </br>
 5060 8GB is <[100%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5060/m145751vs4184) faster. </br>
-5060 8GB is <[130%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5060-Ti/m145751vs4183) faster. </br>
+5060 Ti 16GB is <[130%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5060-Ti/m145751vs4183) faster. </br>
 5070 12GB is >[200%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5070/m145751vs4182) faster. </br> 
 5070 Ti 12GB is <[300%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5070-Ti/m145751vs4181) faster. </br>
 5080 12GB is >[340%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5080/m145751vs4179) faster. </br>
