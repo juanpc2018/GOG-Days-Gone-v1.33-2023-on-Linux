@@ -122,17 +122,17 @@ NTsync with Generic Kernel is inferior vs. F-Sync with Low-Latency/Liquorix Kern
 Tested: 20.04.4 LTS vs. 24.04.4 </br>
 20.04.4 LTS Runs smoother, No Hicups, with same GPU. </br>
 
-Is worth installing a Newer Linux? No in my opinion. </br>
-does RTX 5050 8GB work in 20.04.4 LTS ? TBA </br>
-is RTX 5050 8GB enough for Days Gone v1.33 ? TBA </br>
-is a good idea to buy a 8GB GPU in 2026? No. </br>
+¿Is worth installing a Newer Linux "24/25" ? No in my opinion. </br>
+¿does RTX 50x0 work in 20.04.4 LTS ? Unknown </br>
+¿is RTX 5050 8GB enough for Days Gone v1.33 ? Unknown </br>
+¿is a good idea to buy a 8GB GPU in 2026? No. </br>
 
 
 The most popular GPU on Steam is [RTX 5070 12GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070.c4218) </br>
 but i think [RTX 4060 Ti 16GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292) is better </br>
 [5050 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5050.c4220), [5060 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060.c4219), [5060 Ti 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-8-gb.c4246), [5070 Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-super.c4311), [5070 Ti](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti.c4243), [5070 Ti Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti-super.c4312), [5080](https://www.techpowerup.com/gpu-specs/geforce-rtx-5080.c4217), [5080 Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5080-super.c4302), [5090](https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216) </br>
 
-All Ti, Super, Ti Super are in-between steps between 5070 -> 5080 or 5080 -> 5090 </br>
+All Ti, Super, Ti Super are in-between steps from: 5060 -> 5070 -> 5080 -> 5090 </br>
 The goal is to have as low power consumption as possible with decent gaming experience. </br>
 5050 8GB is >[50%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5050/m145751vs4185) faster vs. [M6000 24GB (2016)](https://www.techpowerup.com/gpu-specs/quadro-m6000-24-gb.c2824) = same as [P6000](https://gpu.userbenchmark.com/Compare/Nvidia-RTX-5050-vs-Nvidia-Quadro-P6000/4185vsm187394) </br>
 5060 8GB is <[100%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5060/m145751vs4184) faster. </br>
