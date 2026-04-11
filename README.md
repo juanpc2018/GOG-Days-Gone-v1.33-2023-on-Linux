@@ -149,6 +149,8 @@ GPUs like [RTX 2080 Ti (Q3 2018)](https://www.techpowerup.com/gpu-specs/geforce-
 ## [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
 ## [Ubuntu](https://web.archive.org/web/20230629102717if_/http://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso.torrent) 20.04.6 LTS
 
+Latest Opera [128.0.5807.77](https://ftp.opera.com/pub/opera/desktop/128.0.5807.77/linux/) </br>
+
 has: </br>
 Kernel 5. </br>
 Wine v </br>
