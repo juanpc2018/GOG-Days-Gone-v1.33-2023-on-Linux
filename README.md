@@ -226,13 +226,15 @@ Ubuntu 22.04 KDE Neon reeport problems with: libpoppler-glib8 dependency. </br>
 Solution: Downgrade package to official Ubuntu version: </br>
 > sudo apt install libpoppler-glib8:{i386,amd64}=22.02.0-2ubuntu0.3 </br>
 
-## [Intel® Arc™ B580 12GB](https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/downloads.html) GPU [driver](https://www.intel.com/content/www/us/en/download/747008/intel-arc-graphics-driver-ubuntu.html) requires 22.04 + Kernel 6.11 </br>
+## [Intel® Arc™ B580 12GB](https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/downloads.html) GPU [driver](https://www.intel.com/content/www/us/en/download/747008/intel-arc-graphics-driver-ubuntu.html) requires 22.04 + Kernel [6.11](https://en.wikipedia.org/wiki/Ubuntu_version_history#Table_of_versions) </br>
 
 Driver [Requirements](https://dgpu-docs.intel.com/devices/hardware-table.html) </br>
 Intel® Arc™ B580 Graphics | Xe2 | Battlemage | 6.11* | 320 | PCI ID: E20B </br>
 *requires force-probe kernel parameter. </br>
+In-theory requires Ubuntu 24.10 that comes with [Kernel 6.11](https://en.wikipedia.org/wiki/Ubuntu_version_history#Table_of_versions) but Generic Kernel is Not for Gaming. </br>
+an older Ubuntu + Liquorix Kernel >6.11 would be better. </br>
 
-¿Arc B580 works with Liquorix Kernel or LowLatency Kernel? Unknown. </br>
+Does ¿Arc B580 work with Liquorix Kernel or LowLatency Kernel? Unknown. </br>
 
 [install instructions](https://dgpu-docs.intel.com/driver/client/overview.html#ubuntu-22.04) </br>
 > wget -qO - https://repositories.intel.com/gpu/intel-graphics.key | \ </br>
