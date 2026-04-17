@@ -154,7 +154,7 @@ GPUs like [RTX 2080 Ti (Q3 2018)](https://www.techpowerup.com/gpu-specs/geforce-
 
 Latest Opera [128.0.5807.77](https://ftp.opera.com/pub/opera/desktop/128.0.5807.77/linux/) </br>
 [EDGE](https://www.microsoft.com/en-us/edge/download) & [Chromium](https://download-chromium.appspot.com/) 140.0.3485.94 </br>
-Browser.Yandex.com, Vivaldi, Brave, Firefox comes built-in. </br>
+Browser.Yandex.com, Vivaldi, Brave, Firefox 137.0.1 work ok. </br>
 
 has: </br>
 Kernel 5. </br>
