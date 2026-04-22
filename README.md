@@ -129,7 +129,7 @@ Tested: 20.04.4 LTS vs. 24.04.4 </br>
 
 
 The most popular GPU on Steam is [RTX 5070 12GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070.c4218) </br>
-but i think [RTX 4060 Ti 16GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292) is better </br>
+but i think [RTX 4060 Ti 16GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292) could be better </br>
 [5050 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5050.c4220), [5060 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060.c4219), [5060 Ti 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-8-gb.c4246), [5070 Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-super.c4311), [5070 Ti](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti.c4243), [5070 Ti Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti-super.c4312), [5080](https://www.techpowerup.com/gpu-specs/geforce-rtx-5080.c4217), [5080 Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5080-super.c4302), [5090](https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216) </br>
 
 All Ti, Super, Ti Super are in-between steps from: 5060 -> 5070 -> 5080 -> 5090 </br>
@@ -146,7 +146,16 @@ The goal is to have as low power consumption as possible with decent gaming expe
 5090 32GB is <[500%](https://gpu.userbenchmark.com/Compare/Nvidia-Quadro-M6000-24GB-vs-Nvidia-RTX-5090/m145751vs4180) faster. </br>
 
 M6000 24GB is Not Enough for DaysGone v1.33 probably becasue is limited by PCIe 3.0 x16 & GDDR5 </br>
-GPUs like [RTX 2080 Ti (Q3 2018)](https://www.techpowerup.com/gpu-specs/geforce-rtx-2080-ti.c3305) are also limited by PCIe 3.0 x16 </br>
+GPUs like [RTX 2080 Ti (Q3 2018)](https://www.techpowerup.com/gpu-specs/geforce-rtx-2080-ti.c3305) are also limited by PCIe 3.0 x16 but GDDR6 </br>
+RTX 30x0 have PCIe v4.0 </BR>
+[RTX 2080](https://www.techpowerup.com/gpu-specs/geforce-rtx-2080.c3224) 8GB = [RTX 3070](https://www.techpowerup.com/gpu-specs/geforce-rtx-3070.c3674) 8GB = intel [B580](https://www.techpowerup.com/gpu-specs/arc-b580.c4244) 12GB = [RTX 4060](https://www.techpowerup.com/gpu-specs/geforce-rtx-4060.c4107) 8GB = [RTX 5050](https://www.techpowerup.com/gpu-specs/geforce-rtx-5050.c4220) 8GB </br>
+RTX 2070 = intel [A770](https://www.techpowerup.com/gpu-specs/arc-a770.c3914) 8/16GB maybe ~= RTX 3060 ~= [RTX 4050 Mobile](https://www.techpowerup.com/gpu-specs/geforce-rtx-4050-mobile.c3953) </br>
+
+AMD is another Vega56 / Vage64, [5700XT](https://www.techpowerup.com/gpu-specs/radeon-rx-5700-xt.c3339) 8GB GDDR6, 6600, 6600XT, 7600, 7700X </br>
+AMD [6900 XT](https://www.techpowerup.com/gpu-specs/radeon-rx-6900-xt.c3481) 16GB = [7900-GRE](https://www.techpowerup.com/gpu-specs/radeon-rx-7900-gre.c4166) 16GB </br>
+
+Newer Generation has lower power consumption. </br>
+LHR = Low Hash Rate = Not for mining. </br>
 
 
 ## [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
