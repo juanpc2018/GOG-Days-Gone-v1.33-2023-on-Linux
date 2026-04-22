@@ -148,6 +148,9 @@ The goal is to have as low power consumption as possible with decent gaming expe
 M6000 24GB is Not Enough for DaysGone v1.33 probably becasue is limited by PCIe 3.0 x16 & GDDR5 </br>
 GPUs like [RTX 2080 Ti (Q3 2018)](https://www.techpowerup.com/gpu-specs/geforce-rtx-2080-ti.c3305) are also limited by PCIe 3.0 x16 but GDDR6 </br>
 RTX 30x0 have PCIe v4.0 </BR>
+RTX 40x0 have PCIe v4.0 same a most AMD </BR>
+RTX 50x0 have PCIe v5.0 </BR>
+
 [RTX 2080](https://www.techpowerup.com/gpu-specs/geforce-rtx-2080.c3224) 8GB = [RTX 3070](https://www.techpowerup.com/gpu-specs/geforce-rtx-3070.c3674) 8GB = intel [B580](https://www.techpowerup.com/gpu-specs/arc-b580.c4244) 12GB = [RTX 4060](https://www.techpowerup.com/gpu-specs/geforce-rtx-4060.c4107) 8GB = [RTX 5050](https://www.techpowerup.com/gpu-specs/geforce-rtx-5050.c4220) 8GB </br>
 RTX 2070 = intel [A770](https://www.techpowerup.com/gpu-specs/arc-a770.c3914) 8/16GB maybe ~= RTX 3060 ~= [RTX 4050 Mobile](https://www.techpowerup.com/gpu-specs/geforce-rtx-4050-mobile.c3953) </br>
 
