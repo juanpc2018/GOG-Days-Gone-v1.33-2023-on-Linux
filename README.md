@@ -307,8 +307,6 @@ mesa-vulkan </br>
 24.04.1 </br>
 24.04.2 </br>
 24.04.3 </br>
-24.04.4 </br>
-
 24.04.4 .iso has a New installer that requires internet, </br>
 without internet, Ubuntu 24.04.4 cannot be installed. </br>
 Requires FAT32 drivers, tools, & Map Location for Download server. </br>
