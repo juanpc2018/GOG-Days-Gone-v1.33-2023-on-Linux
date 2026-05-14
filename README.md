@@ -129,7 +129,7 @@ Tested: 20.04.4 LTS vs. 24.04.4 </br>
 
 
 The most popular GPU on Steam is [RTX 5070 12GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070.c4218) </br>
-but i think [RTX 4060 Ti 16GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292) could be better </br>
+but i think [RTX 5060 Ti 16GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292) could be better </br>
 [5050 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5050.c4220), [5060 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060.c4219), [5060 Ti 8GB](https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-8-gb.c4246), [5070 Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-super.c4311), [5070 Ti](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti.c4243), [5070 Ti Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti-super.c4312), [5080](https://www.techpowerup.com/gpu-specs/geforce-rtx-5080.c4217), [5080 Super](https://www.techpowerup.com/gpu-specs/geforce-rtx-5080-super.c4302), [5090](https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216) </br>
 
 All Ti, Super, Ti Super are in-between steps from: 5060 -> 5070 -> 5080 -> 5090 </br>
