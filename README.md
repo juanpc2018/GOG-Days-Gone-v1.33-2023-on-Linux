@@ -161,8 +161,8 @@ Newer Generation has lower power consumption. </br>
 LHR = Low Hash Rate = Not for mining. </br>
 
 
-## [Kubuntu](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 20.04.5 LTS
-## [Ubuntu](https://web.archive.org/web/20230629102717if_/http://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso.torrent) 20.04.6 LTS
+## Kubuntu [20.04.5 LTS](https://web.archive.org/web/20221229231104if_/https://cdimage.ubuntu.com/kubuntu/releases/20.04.5/release/kubuntu-20.04.5-desktop-amd64.iso.torrent) 
+## Ubuntu [20.04.6 LTS](https://web.archive.org/web/20230629102717if_/http://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso.torrent)
 
 Latest Opera [128.0.5807.77](https://ftp.opera.com/pub/opera/desktop/128.0.5807.77/linux/) </br>
 [EDGE](https://www.microsoft.com/en-us/edge/download) & [Chromium](https://download-chromium.appspot.com/) 140.0.3485.94 </br>
