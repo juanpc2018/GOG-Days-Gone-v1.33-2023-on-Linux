@@ -220,7 +220,7 @@ Iso Installer, downloads & install "different" / "manual" Nvidia drivers vs. Sof
 
 Also Requires Mesa drivers, & Vulkan drivers </br>
 installing some drivers crash Ubuntu-Desktop </br>
-install 1-by-1 & reboot. </br>
+install & reboot 1-by-1. </br>
 
 > cat /etc/os-release
 
