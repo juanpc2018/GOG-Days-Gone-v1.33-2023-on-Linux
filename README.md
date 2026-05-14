@@ -174,7 +174,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 20.10
+## [Ubuntu](https://web.archive.org/web/20201120202409/https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20210525142505/https://cdimage.ubuntu.com/kubuntu/releases/20.10/release/kubuntu-20.10-desktop-amd64.iso.torrent) 20.10
 
 comes with: </br>
 Kernel 5. </br>
@@ -182,7 +182,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu 21.04
+## [Ubuntu](https://web.archive.org/web/20210812034439/https://releases.ubuntu.com/21.04/ubuntu-21.04-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20210430050755/https://cdimage.ubuntu.com/kubuntu/releases/21.04/release/kubuntu-21.04-desktop-amd64.iso.torrent) 21.04 
 
 comes with: </br>
 Kernel 5. </br>
@@ -190,7 +190,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## [Ubuntu]() / [Kubuntu]() 21.10
+## [Ubuntu](https://web.archive.org/web/20211029011023/https://releases.ubuntu.com/21.10/ubuntu-21.10-desktop-amd64.iso.torrent) / [Kubuntu](https://web.archive.org/web/20211115122718/https://cdimage.ubuntu.com/kubuntu/releases/21.10/release/kubuntu-21.10-desktop-amd64.iso.torrent) 21.10
 
 comes with: </br>
 Kernel 5. </br>
@@ -198,7 +198,7 @@ Wine v </br>
 DXVK 1. </br>
 mesa-vulkan </br>
 
-## Ubuntu [22.04.5](https://releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso.torrent) LTS "Jammy" / Kubuntu [22.04.5](https://web.archive.org/web/20241008203731if_/https://cdimage.ubuntu.com/kubuntu/releases/22.04.5/release/kubuntu-22.04.5-desktop-amd64.iso.torrent) LTS /  Linux Mint 21.x
+## Ubuntu [22.04.5](https://web.archive.org/web/20240913232409/https://releases.ubuntu.com/22.04.5/ubuntu-22.04.5-desktop-amd64.iso.torrent) LTS "Jammy" / Kubuntu [22.04.5](https://web.archive.org/web/20241008203731if_/https://cdimage.ubuntu.com/kubuntu/releases/22.04.5/release/kubuntu-22.04.5-desktop-amd64.iso.torrent) LTS /  Linux Mint 21.x
 
 Ubuntu 22.04.5 comes with: </br>
 Kernel 6.8 </br>
