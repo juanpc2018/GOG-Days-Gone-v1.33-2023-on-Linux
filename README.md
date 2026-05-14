@@ -321,7 +321,7 @@ Kernel 6.17 same as 25.10 </br>
 Nvidia driver 470 Fail </br>
 Nvidia driver 535 install ok </br>
 Wine64 9.0-repack-4build3 install ok </br>
-Win32 does Not install </br>
+Wine32 does Not install </br>
 WineHQ-stable does Not install. </br>
 DXVK N/A = Requires [Manual install](https://github.com/doitsujin/dxvk/releases) No apt store PPA Repo. </br>
 mesa-vulkan-drivers 25.2.8-0ubuntu0.24.04.1 </br>
