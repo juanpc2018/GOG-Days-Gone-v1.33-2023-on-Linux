@@ -61,6 +61,7 @@ create wineprefix for Wine 11.2 in winetricks: Select {Game}|Bottom Right Icon</
 > /home/user_name/.local/share/wineprefixes/prefix_name </br>
 
 Download / install: [DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) or [Better >v2.0](https://github.com/doitsujin/dxvk/releases/) to New created prefix </br>
+[v2.0](https://github.com/doitsujin/dxvk/releases/tag/v2.0), [v2.2](https://github.com/doitsujin/dxvk/releases/tag/v2.2), [v2.3.1](https://github.com/doitsujin/dxvk/releases/tag/v2.3.1), [v2.4.1](https://github.com/doitsujin/dxvk/releases/tag/v2.4.1), [v2.5](https://github.com/doitsujin/dxvk/releases/tag/v2.5), [v2.5.3](https://github.com/doitsujin/dxvk/releases/tag/v2.5.3), [v2.6](https://github.com/doitsujin/dxvk/releases/tag/v2.6), [v2.6.2](https://github.com/doitsujin/dxvk/releases/tag/v2.6.2), [v2.7.1](https://github.com/doitsujin/dxvk/releases/tag/v2.7.1) </br>
 > export WINEPREFIX=/home/user/.local/share/wineprefixes/prefix_name </br>
 > ./setup_dxvk.sh install </br>
 
