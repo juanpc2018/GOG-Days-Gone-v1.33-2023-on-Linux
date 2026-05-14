@@ -60,9 +60,11 @@ Disable E-Sync, Only F-Sync </br>
 create wineprefix for Wine 11.2 in winetricks: Select {Game}|Bottom Right Icon</br>
 > /home/user_name/.local/share/wineprefixes/prefix_name </br>
 
-install: [DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) to New created prefix </br>
-DONE </br>
+Download & install: [DXVK 1.10.3](https://github.com/doitsujin/dxvk/releases/tag/v1.10.3) to New created prefix </br>
+> export WINEPREFIX=/home/user/.local/share/wineprefixes/prefix_name
+> ./setup_dxvk.sh install
 
+DONE </br>
 Nvidia driver 535 or 570 work in 20.04.4 LTS </br>
 
 #### Problem: </br>
